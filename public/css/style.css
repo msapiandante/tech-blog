@@ -70,7 +70,7 @@ input[type="password"] {
 }
 
 #icon {
-  color: whitesmoke;
+  color: black;
 }
 
 #techblog-header {
@@ -85,7 +85,7 @@ input[type="password"] {
 
 #homepage-title {
   font-size: 30px;
-  color: #1d3b55;
+  color: #000000;
 }
 
 #body-color {
@@ -93,7 +93,7 @@ input[type="password"] {
 }
 
 #post-card {
-  background-color: #d4f1f4;
+  background-color: #000000;
   text-decoration: none !important;
 }
 
