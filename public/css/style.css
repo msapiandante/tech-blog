@@ -1,6 +1,6 @@
 
 button {
-  background-color: #04aa6d;
+  background-color: #080808;
   color: white;
   padding: 14px 20px;
   margin: 8px 0;
@@ -30,7 +30,7 @@ h1, p{
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 h3 {
-  color: #04aa6d !important;
+  color: #080808 !important;
 }
 
 .container {
@@ -70,17 +70,17 @@ input[type="password"] {
 }
 
 #icon {
-  color: lightblue;
+  color: whitesmoke;
 }
 
-#nexus-header {
+#techblog-header {
   background-image: linear-gradient(
     to bottom right,
-    darkcyan,
-    lightblue,
+    rgb(0, 0, 0),
+    rgb(9, 9, 9),
     white
   );
-  color: rgb(150, 17, 17);
+  color: rgb(255, 255, 255);
 }
 
 #homepage-title {
@@ -89,7 +89,7 @@ input[type="password"] {
 }
 
 #body-color {
-  background-image: linear-gradient(to bottom right, lightcyan, white);
+  background-image: linear-gradient(to bottom right, white, white);
 }
 
 #post-card {
