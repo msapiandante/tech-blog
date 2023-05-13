@@ -52,8 +52,6 @@ For this project, I was tasked with creating a CMS style blog wherein the user w
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
-
 
 ## Credits
 
