@@ -35,5 +35,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 ## Tests
+https://murmuring-shore-92413.herokuapp.com/
 
+github repo: https://github.com/msapiandante/tech-blogg
 
