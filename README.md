@@ -39,3 +39,7 @@ SOFTWARE.
 
 github repo: https://github.com/msapiandante/tech-blogg
 
+![screencapture-murmuring-shore-92413-herokuapp-2023-05-13-15_43_08 (1)](https://github.com/msapiandante/tech-blog/assets/126308793/a2b0639b-a795-47ad-b17b-38f903289378)
+![screencapture-murmuring-shore-92413-herokuapp-posts-2-2023-05-13-15_43_51](https://github.com/msapiandante/tech-blog/assets/126308793/cbf3319a-f8dc-4f66-9190-65c5930c7dc8)
+
+
